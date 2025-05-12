@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "e76d2fdcceeb74ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7c858599f597b45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd36ca2d29db054f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blue Prince Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blue Prince Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "594e44186d8720c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ffaa24c6570dd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7e3a1904c767d56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d2e2f89347d1e724",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "831ac4c70a17b288",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9372e9b16f3d2a5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "912e0fffab7250b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbf5486b09e10444",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Szoftverfejlesztes zh/Software Engineering/API.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for API"
+            }
+          },
+          {
+            "id": "3d8075e56ca2c9e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-04-06.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-04-06"
+            }
+          },
+          {
+            "id": "ddceb0875343a76d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2db038ad6ab9105b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Szoftverfejlesztes zh/Software Engineering/API.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of API"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd36ca2d29db054f",
+  "lastOpenFiles": [
+    "Szoftware development test topics.md",
+    "Szoftverfejlesztes zh/Software Vulnerabilities.md",
+    "Szoftverfejlesztes zh/Software Testing.md",
+    "Szoftverfejlesztes zh/Software Engineering/Framework.md",
+    "Szoftverfejlesztes zh/Object-Oriented Design Principles.md",
+    "Szoftverfejlesztes zh/Patterns in Software Development.md",
+    "Szoftverfejlesztes zh/Annotations in the Java Programming Language.md",
+    "Blue Prince Notes.md",
+    "bp_notes_perplexity.md",
+    "Untitled",
+    "Szoftverfejlesztes zh/Software Versioning/Software versioning concepts.md",
+    "Szoftverfejlesztes zh/Software Versioning/Conventional commits.md",
+    "Szoftverfejlesztes zh/Software Versioning/Semantic Versioning.md",
+    "mzés.md",
+    "Szoftverfejlesztes zh/Software Engineering/API.md",
+    "Szoftverfejlesztes zh/Software Engineering/IDE.md",
+    "Szoftverfejlesztes zh/Software Versioning",
+    "Szoftverfejlesztes zh/Software Vulnerabilities",
+    "Szoftverfejlesztes zh/Software Engineering",
+    "github-changelog-generator.md",
+    "Szoftverfejlesztes zh/Software Engineering/platform.md",
+    "Szoftverfejlesztes zh/Software Engineering/Library.md",
+    "Szoftverfejlesztes zh/Software Engineering/SDK.md",
+    "Pasted image 20250508175646.png",
+    "2025-05-08.md",
+    "vulnerability database.md",
+    "0-day.md",
+    "().md",
+    "Szoftverfejlesztes zh/0-day vulnerability.md",
+    "Szoftverfejlesztes zh/0 day vulnerablity.md",
+    "libray.md",
+    "Szoftverfejlesztes zh",
+    "PCa26480",
+    "drive-download-20250508T132629Z-001.zip",
+    "Unconfirmed 500537.crdownload",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
