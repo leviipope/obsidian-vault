@@ -1,5 +1,7 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
+could also use: https://docs.google.com/document/d/13R-jmv_nBn4mcQCaa40DmZo_UlCb0pv-Qe9MoLSTwxU/mobilebasic?usp=embed_facebook
+
 ## Ethical Hacking Guide: Gaining Access \& Reverse Shell
 
 ### Phase 1: Initial Setup \& Reconnaissance
